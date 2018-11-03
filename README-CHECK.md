@@ -10,6 +10,6 @@
 
 \5. 当下班时间到或收到“下班”指令后，排队缓冲区不再接收新来的乘客；等原有排队的乘客都被处理完毕，才允许正式下班，关闭安检大厅，退出程序。
 
- ![效果]（https://github.com/qwerwxyz/airport-check/blob/img/QQ图片20181103215844.jpg）
+ ![效果](https://github.com/qwerwxyz/airport-check/blob/img/QQ图片20181103215844.jpg）
 
 ​       
