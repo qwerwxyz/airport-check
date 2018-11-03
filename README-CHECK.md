@@ -1,4 +1,5 @@
 机场安检大厅要求：
+![要求](https://github.com/qwerwxyz/airport-check/blob/img/图片2.png)
 
 \1. 机场安检大厅设有一个排队缓冲区以及MaxCheck个安检口（安检口序号为1~8）。等待安检的乘客首先需要进入 “排队缓冲区”进行等待，当有空闲的安检口时队首的乘客从排队缓冲区进入“安检口通道”，等待安检。每个安检口最多排MaxCustCheck位乘客，安检人员按顺序为乘客提供安检服务，每次检查1个乘客。
 
@@ -11,6 +12,6 @@
 \5. 当下班时间到或收到“下班”指令后，排队缓冲区不再接收新来的乘客；等原有排队的乘客都被处理完毕，才允许正式下班，关闭安检大厅，退出程序。
 
 
- ![Image text](https://github.com/qwerwxyz/airport-check/blob/img/QQ图片20181103215844.jpg)
+ ![最终效果](https://github.com/qwerwxyz/airport-check/blob/img/QQ图片20181103215844.jpg)
 
 ​       
